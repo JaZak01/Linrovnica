@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jakza/CLionProjects/linrovnica/hlava.h
+
+C:/Users/jakza/CLionProjects/linrovnica/main.cpp
+iostream
+-
+hlava.h
+C:/Users/jakza/CLionProjects/linrovnica/hlava.h
+

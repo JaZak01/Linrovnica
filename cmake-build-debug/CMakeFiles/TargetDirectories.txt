@@ -1,0 +1,3 @@
+C:/Users/jakza/CLionProjects/linrovnica/cmake-build-debug/CMakeFiles/linrovnica.dir
+C:/Users/jakza/CLionProjects/linrovnica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jakza/CLionProjects/linrovnica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
